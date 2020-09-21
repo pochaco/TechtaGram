@@ -43,6 +43,12 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSCameraUsageDescription</key>
+	<string>アプリ内で編集する写真を撮るためにカメラを起動します</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>編集した画像をフォトライブラリに保存します</string>
+	<key>Privacy -Photo Library Usage Description</key>
+	<string>アプリ内で編集する画像をフォトライブラリ内から呼び出します</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
